@@ -11,6 +11,9 @@
 
 Basado en el [diseño de mBot](https://github.com/Makeblock-official/mBot_Firmata/blob/master/hardware/mCore.pdf)
 
+
+[Driver de motores](https://www.sparkfun.com/products/14451)
+
 ## Diseño 3D
 
 [Diseño de las piezas](https://github.com/mClon/3D/tree/master/mClon3D)
